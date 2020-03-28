@@ -1,13 +1,15 @@
-# Ethereum Contact Hashed Index + Escrow (CHIE)
+# Easy secure account transfers (ESAT)
 
 ```
- ______     __  __     __     ______    
-/\  ___\   /\ \_\ \   /\ \   /\  ___\   
-\ \ \____  \ \  __ \  \ \ \  \ \  __\   
- \ \_____\  \ \_\ \_\  \ \_\  \ \_____\ 
-  \/_____/   \/_/\/_/   \/_/   \/_____/ 
+ ______     ______     ______     ______  
+/\  ___\   /\  ___\   /\  __ \   /\__  _\ 
+\ \  __\   \ \___  \  \ \  __ \  \/_/\ \/ 
+ \ \_____\  \/\_____\  \ \_\ \_\    \ \_\ 
+  \/_____/   \/_____/   \/_/\/_/     \/_/                                        
                                                                                   
 ```
+
+Easy, secure account transfers.
 
 Phone number/email registry system for Ethereum addresses. This is meant to be supporting infrastructure for an easy to use, ethereum based "cash" transfer network. An ethereum wallet mobile app will connect to these smart contracts to provide an intuitive UI and quality UX.
 
