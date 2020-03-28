@@ -1,0 +1,20 @@
+{
+  "name": "ethereum_phone_book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ganache": "ganache-cli -m 'adult race orient figure leg buzz sugar lecture chief fold knife barely'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.4.0",
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "ethers": "^4.0.43",
+    "nexmo": "^2.6.0",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}
