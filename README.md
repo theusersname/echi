@@ -9,7 +9,7 @@
                                                                                   
 ```
 
-Phone number/email registry system for Ethereum addresses.
+Phone number/email registry system for Ethereum addresses. This is meant to be supporting infrastructure for an easy to use, ethereum based "cash" transfer network. An ethereum wallet mobile app will connect to these smart contracts to provide an intuitive UI and quality UX.
 
 Sending ETH through this contract to a phone number or email address (`sendTo(bytes32 _contactHash)`) will either route the transaction to the Ethereum account registered to the hash or hold the funds if the hash is not registered. The funds will be available to the phone number/email owner once they register an Ethereum account.
 
